@@ -4,4 +4,5 @@ This project will take data from covid-19, from a public api, and show the evolu
 For this project was used:
 
 - Google colaboratory.
-- API: QuickChart
+- Data API: https://api.covid19api.com/dayone/country/ecuador
+- API to render graphics: QuickChart.
